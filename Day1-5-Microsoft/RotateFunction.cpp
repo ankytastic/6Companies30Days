@@ -1,4 +1,4 @@
-// LeetCode- 296 - Rotate Function
+// LeetCode- 396 - Rotate Function
 //You are given an integer array nums of length n. Return maximum length of Rotation Function.
 
 
