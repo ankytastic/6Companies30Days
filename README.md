@@ -11,5 +11,6 @@
  - [Largest Divisible Subset.](https://leetcode.com/problems/largest-divisible-subset/)
  - [Deletions to make an array divisible.](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/)
  - [Combination Sum with a twist.](https://leetcode.com/problems/combination-sum-iii/)
+ - [Substrings containing all three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)
 
 
