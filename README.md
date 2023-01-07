@@ -12,5 +12,7 @@
  - [Deletions to make an array divisible.](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/)
  - [Combination Sum with a twist.](https://leetcode.com/problems/combination-sum-iii/)
  - [Substrings containing all three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)
+ - [Seat Arrangement in a SpiceJet Problem - Online OA February ‘22](https://leetcode.com/problems/airplane-seat-assignment-probability/)
+ - [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)
 
 
