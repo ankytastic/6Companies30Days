@@ -15,5 +15,9 @@
  - [Seat Arrangement in a SpiceJet Problem - Online OA February ‘22](https://leetcode.com/problems/airplane-seat-assignment-probability/)
  - [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)
  - [Shortest Unsorted continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
+ 
+ ### 2.Goldman Sachs
+
+ - [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
 
 
