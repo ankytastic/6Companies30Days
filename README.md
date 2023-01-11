@@ -19,5 +19,6 @@
  ### 2.Goldman Sachs
 
  - [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
+ - [Factorial with Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
 
 
